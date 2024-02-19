@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+    color: green;
+}
+
+.div-element {
+    border: 2px dotted;
+    width: 100px;
+    height: 100px;
+}
+
+ol {
+    list-style-type: lower-alpha; /* Replace ordered list numbers with letters */
+}
+
+ul {
+    list-style-type: square; /* Replace unordered list dots with squares */
+}
